@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+div.header {
+  color: white;
+  text-align: left;
+  background-color: dodgerblue;
+  font-family: century gothic;
+  font-size:35px;
+  font-weight:lighter;
+  padding-left: 10px;
+  padding-top: 10px;
+  padding-bottom: 15px;
+} 
+.stylesfont{
+    font-family: century gothic;
+    font-weight: bold;
+    padding-left:50px;
+}
+.button {
+  background-color: black;
+  border: none;
+  color: white;
+  padding: 8px 5px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 14px;
+  margin: 3px 3px;
+  cursor: pointer;
+}
+div.box {
+  background-color: white;
+  width: 880px;
+  border: 1px solid black;
+  padding-top:2px;
+  padding-left:5px;
+  margin: 50px;
+}
+ul {
+position: relative;
+list-style: none;
+margin-left: -20px;
+padding-left: 1.2em;
+}
+ul li:before {
+content: "-";
+margin-left: 20px;
+margin-right: 10px;
+}
+.color{
+background-color:black;
+}
+#home {
+  width: 26px;
+  height: 24px;
+}
+</style>
+</head>
+<body>
+<div class="header">TECHNOVERT</div>
+<div class="color"><p class="button">HOME</p>
+<p class="button">SERVICES</p>
+<p class="button">CAREERS</p>
+<p class="button">CONTACT</p>
+<img id="home" style="padding:5px 40px 0px 10px" src="C:\Users\SANDEEP\Downloads\blog-3 (1).png" align="right"></div>
+<div class="box">
+<h2 style="font-family:century gothic">NEWS</h2>
+<ul class="stylesfont">
+<li>Technovert is now Microsoft partner in Information Security Solutions</li><br>
+<li>We deliver one of the larges book information stories in the world</li><br>
+<li>Our team delivered the first Windows 8 Metro style application for the Windows Phone group at Microsoft</li><br>
+<li>Technovert partners with a strategic technology CTO group</li><br>
+</ul>
+</div>
+<h2 class="stylesfont">Welcome!</h2>
+<p><div class="stylesfont">Lorem ipsum dolor sit amet, vel autem fugit ea. Est ne sint hinc, mel summo elaboraret consequuntur et. Ut nusquam eloquentiam concludaturque nec, est id praesent repudiare. Ad vis fugit omittam. Quo fierent maiestatis at, mei prompta recteque sapientem ea, vim posse assentior in.</div><br>
+<div class="stylesfont">
+Quo primis regione ut, insolens reprimique te pro, ne decore regione persequeris sea. Et liber electram ius, pri velit habemus ne. Est ad ipsum oratio, elit iusto mea ut. No vix iudico meliore recteque, in exerci volumus est. Omnes laboramus ut sit, eu eum appetere percipit, ad vix clita mollis. Suas assentior cotidieque est an, corpora detracto delectus nam ex, nam an assum periculis.</div><br>
+<div class="stylesfont">
+Te error molestiae reprehendunt quo, pri ne elitr semper electram. Ex vis feugiat efficiantur, eam sapientem voluptatibus ad. Affert fabulas inermis ad ius, cu mei dicant tacimates. In vis mucius integre habemus, enim posse te mea. Cum te summo postea, an vis ignota nostrum, choro deleniti neglegentur an nam.</div><br>
+<div class="stylesfont">
+Id affert maluisset assentior eos, eam at habemus vituperata. Nec ut dolor virtute democritum, at legere menandri eum. Sed quem primis id. Ea nam scripta integre facilis. Te purto sententiae vim, ne per habeo graeci, labitur eleifend ocurreret per ad.</div><br>
+<div class="stylesfont">
+Cum no affert inciderint, vel te paulo dolores theophrastus. Id eripuit deseruisse eos, nobis equidem inciderint pro te, pri disputationi definitionem in. No duo primis nostro mentitum, nam cibo dolor audire ut. Nam atqui virtute debitis id. Nec everti fabellas ei, diam nulla urbanitas an usu.</div><br>
+<div class="stylesfont">
+Mel ne odio omittam pertinax, qui labores qualisque neglegentur eu. Vix fuisset consetetur sadipscing ad, eos corpora detracto ne, dicat eirmod qui ad. In dicunt vocent deserunt eos, cum et ludus meliore efficiantur. Eu deserunt abhorreant nec, vis appetere salutandi suavitate in, duo id duis nusquam disputando. Sea ad eleifend adversarium, ea mea intellegam voluptatibus. Veniam oportere corrumpit has cu, te nemore corrumpit per, ad eos gubergren mediocritatem.</div><br>
+<div class="stylesfont">
+Wisi mazim labores ad qui, ius cu affert dolorem. Et salutatus scribentur vel. His eu aeque populo, an noster eleifend disputationi ius, ei persius luptatum molestiae vis. No duis altera eum, sit ad scaevola pertinacia, ei nec doming dicunt honestatis. Ut eos atqui simul, tamquam offendit id mea. Dolore facete scaevola mel cu. Reque movet fabulas no mel, est cu nostrum maluisset, ignota imperdiet eum id.</div><br>
+<div class="stylesfont">
+Inani mollis definiebas ei pri. Duo ei graeco nonumes scriptorem, fuisset hendrerit sed cu. Tale malis nonumes ut mel, sed ea iisque oporteat vulputate. Aeterno facilisi ad mei, his modo fastidii postulant ne.</div><br>
+<div class="stylesfont">
+Ad graeci partiendo pertinacia quo, nec ut audiam forensibus. An euismod singulis philosophia sea. Cum ea aliquam consequat. Ex vim augue feugiat intellegebat, no agam nihil mediocritatem mei, an ferri legimus tractatos eos.</div><br>
+<div class="stylesfont">
+Utroque sadipscing contentiones te est, diam cetero argumentum ne qui. Homero senserit persequeris mea et, meis aliquid labores sit at, lorem intellegebat mediocritatem eum ea. Sit te aliquam delicata. Per fastidii appellantur in, duo ex paulo perpetua persecuti. Qui te quas invidunt lucilius, eum no iudicabit persecuti. Et vim dolorem prodesset.</div>
+<br>
+</p>
+</body>
+</html>
